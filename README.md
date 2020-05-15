@@ -1,4 +1,4 @@
-# IBITS HRIS Web Een Point (API)
+# IBITS HRIS Web End Point (API)
 IBITS HRIS Web Application End Points
 
 # Technologies
